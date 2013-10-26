@@ -17,6 +17,7 @@ setup(
         'celery',
         'httplib2',
         'feedparser',
+        'nltk',
         'numpy',
         'scipy',
         'scikit-learn'
