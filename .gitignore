@@ -16,3 +16,4 @@ share
 #Outliers
 test.py
 celery.db
+ipython_log.py
