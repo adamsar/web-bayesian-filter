@@ -1,0 +1,9 @@
+http://feeds.gawker.com/lifehacker/full,lifehacker
+http://feeds.gawker.com/gizmodo/full,gizmodo
+http://feeds.feedburner.com/TechCrunch/,techcrunch
+http://rss.slashdot.org/Slashdot/slashdot,slashdot
+http://www.engadget.com/rss.xml,engadget
+http://www.tokyocheapo.com/feed/,tokyocheapo
+http://www.reddit.com/r/tokyo.rss,reddittokyo
+http://www.reddit.com/r/japan.rss,redditjapan
+http://feeds.gawker.com/io9/full,io9

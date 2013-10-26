@@ -1,0 +1,8 @@
+http://feeds.gawker.com/deadspin/full,deadspin
+http://bleacherreport.com/articles/feed,bleacherreport
+http://feeds.feedburner.com/manrepeller/Fztx,manrepellent
+http://feeds.feedburner.com/blogspot/XkbrU,unknown1
+http://feeds.gawker.com/kotaku/full,kotaku
+http://feeds.feedburner.com/pickthebrain/LYVv/,pickthebrain
+http://feeds.feedburner.com/ThePositivityblog-PutSomePersonalDevelopmentAndPositivityIntoYourLife,positivityinto
+http://feeds.feedburner.com/typepad/style_me_pretty,stylemepretty
